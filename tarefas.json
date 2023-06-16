@@ -1,0 +1,19 @@
+{
+  "tarefas": [
+    {
+      "id": 3,
+      "descricao": "Estudar ",
+      "status": "Concluída"
+    },
+    {
+      "id": 2,
+      "descricao": "sair",
+      "status": "Concluída"
+    },
+    {
+      "id": 1,
+      "descricao": "passear",
+      "status": "Concluída"
+    }
+  ]
+}
